@@ -20,11 +20,12 @@ Airbnb 自 2008 年創立以來，憑藉其創新的共享住宅模式，成功�
 * 填補缺失值。
 * 過濾離群值。
 * 過濾殭屍房源。
-將過數據預處理後，樣本量縮減至 31,566 筆。
 
-詳情見
+將過數據預處理後，樣本量縮減至 31,566 筆。詳情見 <a href="">
+<a href="https://github.com/phoebbbbe/NYC-Airbnb-Analysis/blob/efe7997ce5153adb84eedef7c88fe0c247faab74/NYC_Airbnb_%E6%95%B8%E6%93%9A%E9%A0%90%E8%99%95%E7%90%86.ipynb">NYC Airbnb 數據預處理與清洗</a><br>
 ## 3. 分析結果
-詳情見
+詳情見 <a href="https://github.com/phoebbbbe/NYC-Airbnb-Analysis/blob/efe7997ce5153adb84eedef7c88fe0c247faab74/NYC_Airbnb_%E6%8E%A2%E7%B4%A2%E6%80%A7%E5%88%86%E6%9E%90.ipynb">NYC Airbnb 探索性數據分析(EDA)</a><br>
+
 ### 房源供給地理分佈
 
 透過地理熱力圖，可以觀察到 2019 年紐約市 Airbnb 市場高度集中在**布魯克林 (Brooklyn, 42.3%)** 與**曼哈頓 (Manhattan, 41.6%)**，兩區合計甚至佔據了全紐約超過 80% 的房源供給。相較之下，史泰登島 (Staten Island) 僅佔 0.9%，顯示出市場重心極度偏向商業與文化機能發達的核心區域。
