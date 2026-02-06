@@ -17,18 +17,18 @@ Airbnb 成立於 2008 年，現已成為全球領先的短租平台。其中，�
 
 ## 3. 分析結果
 * 市場分佈：
-<img width="300" src="/img/img01.jpg">
+<img width="800" src="/img/img01.jpg">
 
-<img width="300" src="/img/img02.jpg">
-
-
-<img width="300" src="/img/img03.jpg">
+<img width="800" src="/img/img02.jpg">
 
 
-<img width="300" src="/img/img04.jpg">
+<img width="800" src="/img/img03.jpg">
 
 
-<img width="300" src="/img/img05.jpg">
+<img width="800" src="/img/img04.jpg">
+
+
+<img width="800" src="/img/img05.jpg">
 
 * 價格
 * 熱門
